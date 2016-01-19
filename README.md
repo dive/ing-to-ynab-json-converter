@@ -1,5 +1,5 @@
 # ing-to-ynab-json-converter
-Easily convert your ING JSON data with transaction for You Need A Budget compatible JSON
+Easily convert your ING JSON data with transaction for You Need A Budget compatible JSON (**OS X Automator Standalone App**)
 
 # How to use
 * download [Automator OS X App](https://github.com/dive/ing-to-ynab-json-converter/releases/download/1.2/ING.to.YNAB.JSON.Converter.app.zip);
